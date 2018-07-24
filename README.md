@@ -1,6 +1,6 @@
 # About This Guide
 
-This guide is created for "Human-in-the-loop Sensing and Control forCommercial Building Energy Efficiency and Occupant Comfort" research project at Carnegie Mellon University. It aims to provide an introduction to using EnergyPlus to estimate energy consumption of one room. Considering the easiness of using Windows version to create the model from scratch, this guide focuses on the Windows version of EnergyPlus. 
+This guide is created for "Human-in-the-loop Sensing and Control forCommercial Building Energy Efficiency and Occupant Comfort" research project at Carnegie Mellon University. It aims to provide an introduction to using EnergyPlus to estimate energy consumption of a single thermal zone, instead of a complete building. Considering the easiness of using Windows version to create the model from scratch, this guide focuses on the Windows version of EnergyPlus. 
 
 # Directory Descriptions
 
@@ -33,3 +33,5 @@ On a Windows, EnergyPlus needs to be run in the installed directory of the whole
 After open EP-Launch/EP-Launch-Lite, choose the input idf file and weather file, click "simulate" and wait for result.
 
 # Reference
+
+EnergyPlus Version 8.9.0 Documentation - Getting Started. U.S. Department of Energy, 23 Mar. 2018, energyplus.net/sites/all/modules/custom/nrel_custom/pdfs/pdfs_v8.9.0/GettingStarted.pdf.
