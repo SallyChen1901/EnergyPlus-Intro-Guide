@@ -16,7 +16,7 @@ To install EnergyPlus, simply visit the EnergyPlus official website: https://ene
 
 EnergyPlus has two different versions for Mac system and Windows. Both perform the simulation and would be able to generate outputs. However, there're several differences:
 
-1. Failure in installing IDF-Editor for Mac. While being a handy tool to edit EnergyPlus input idf file, the intallation of EnergyPlus on Mac does not contain IDF-Editor. Windows version does have this useful tool.
+1. IDF-Editor not available for Mac. While being a handy tool to edit EnergyPlus input idf file, the intallation of EnergyPlus on Mac does not contain IDF-Editor. Windows version does have this useful tool.
 
 2. Less output files for Mac. Some files cannot be generated from the simulation on a Mac EnergyPlus. For example:
    - .svg drawing file: contains diagram of HVAC system;
