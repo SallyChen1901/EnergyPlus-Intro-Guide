@@ -1,6 +1,6 @@
 # About This Guide
 
-This guide is created for "Human-in-the-loop Sensing and Control forCommercial Building Energy Efficiency and Occupant Comfort" research project at Carnegie Mellon University. It aims to provide an introduction to using EnergyPlus to estimate energy consumption of a single thermal zone, instead of a complete building. Considering the easiness of using Windows version to create the model from scratch, this guide focuses on the Windows version of EnergyPlus. 
+This guide is created for "Human-in-the-loop Sensing and Control for Commercial Building Energy Efficiency and Occupant Comfort" research project at Carnegie Mellon University. It aims to provide an introduction to using EnergyPlus to estimate energy consumption of a single thermal zone, instead of a complete building. Considering the easiness of using Windows version to create the model from scratch, this guide focuses on the Windows version of EnergyPlus. 
 
 # Directory Descriptions
 
