@@ -20,7 +20,7 @@ EnergyPlus has two different versions for Mac system and Windows. Both perform t
 
 2. Less output files for Mac. Some files cannot be generated from the simulation on a Mac EnergyPlus. For example:
    - .svg drawing file: contains diagram of HVAC system;
-   - .csv meter file: contains the detailed summary of output variables added by user in the idf file;
+   - .csv meter file: contains the detailed summary of output variables added by user in the idf file. This file will be generated if requested in idf input file on Windows EnergyPlus, but not on Mac's EP-Launch-Lite.
 
 # Run EnergyPlus:
 
