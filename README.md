@@ -5,7 +5,7 @@ This guide is created for "Human-in-the-loop Sensing and Control for Commercial 
 # Directory Descriptions
 
 1. EnergyPlus User Guide
-- This guide include introduction to basics of EnergyPlus. It also includes a description of the overall building scheme of an EnergyPlus model. 
+   - This guide include introduction to basics of EnergyPlus. It also includes a description of the overall building scheme of an EnergyPlus model. 
 1. HVAC System;
 2. Construction;
 3. Scheduling;
