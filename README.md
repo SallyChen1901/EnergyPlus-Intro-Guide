@@ -4,7 +4,7 @@ This guide is created for "Human-in-the-loop Sensing and Control for Commercial 
 
 # Directory Descriptions
 
-1. EnergyPlus User Guide
+1. Introduction
    - Inside this directory, there're two files. The pdf file provides detailed description, while the power point is more like an outline of the pdf guide.
    - This guide include introduction to basics of EnergyPlus. It also includes a description of the overall building scheme of an EnergyPlus model. For more detailed descriptions of specific step or for an example, please see Example directory.
 1. HVAC System;
