@@ -34,6 +34,10 @@ On a Windows, EnergyPlus needs to be run in the installed directory of the whole
 
 After open EP-Launch/EP-Launch-Lite, choose the input idf file and weather file, click "simulate" and wait for result.
 
+# Further Information
+
+This guide is created by Sally Chen from Civil and Environmental Engineering department at Carnegie Mellon University. It is not created as a complete user guide for EnergyPlus and I have also not fully explored all modules of EnergyPlus. It is only created in order to provide help in building simple model, since I had a hard time building the model. Please contact me at kexinc@andrew.cmu.edu for any confusion or any correction to this guide.
+
 # Reference
 
 EnergyPlus Version 8.9.0 Documentation - Getting Started. U.S. Department of Energy, 23 Mar. 2018, energyplus.net/sites/all/modules/custom/nrel_custom/pdfs/pdfs_v8.9.0/GettingStarted.pdf. 
