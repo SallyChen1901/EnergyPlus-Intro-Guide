@@ -1,1 +1,1 @@
-This directory includes two drawing files, both in pdf form. The pdf files are created for users to view the images. Original files are nwf and dxf files. These two drawing files include the reduced model the BIM model and the output dxf file from EnergyPlus.
+This directory includes two drawing files, both in pdf form. The pdf files are created for users to view the images. Original files are nwf and dxf files. These two drawing files show the reduced BIM model and the output dxf file from EnergyPlus.
