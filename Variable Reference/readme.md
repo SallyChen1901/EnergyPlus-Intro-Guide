@@ -1,4 +1,4 @@
-This file aims to provide a summary of the assumptions, variable explanations and example inputs of objects related to HVAC system modelling in EnergyPlus. The example inputs are from the example model made for Scott Hall 6002 at CMU campus. Notice that this file is an overall explanation only for rooms with a VAV HVAC system. For other systems, e.g. Unitary system, please read the following section **For Other System** for variable examination suggestions. 
+This file aims to provide a summary of the assumptions, variable explanations and example inputs of objects related to VAV HVAC system modelling in EnergyPlus. The example inputs are from the example model made for Scott Hall 6002 at CMU campus. Notice that this file is an overall explanation only for rooms with a VAV HVAC system. For other systems, e.g. Unitary system, please read the following section **For Other System** for variable examination suggestions. 
 
 # Reading Instruction
 
@@ -11,3 +11,7 @@ There are in total seven sheets in this excel file.
   - **Note**. This part categorizes different variables into groups so that user can have a better understanding of what the variable is asked about. This can also help better relate the variables with real system.
 
 # For Other System
+
+Examining the variables of EnergyPlus can be a rather slow and painful process, especially for person not having any expertise in HVAC system. Here are some suggestions for user intending to build a model not with VAV HVAC system.
+- **Understand the system before going forward to EnergyPlus.** This will make the process smoother as user will more easily understand what the variable is asking for.
+- **Read both the IDF-Editor short explanation field and *InputOuputReference*.** The IDF-Editor has short explanation and shows the default values. However, the *InputOuputReference* has longer explanations.
