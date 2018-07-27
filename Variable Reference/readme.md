@@ -3,7 +3,7 @@ This file aims to provide a summary of the assumptions, variable explanations an
 # Reading Instruction
 
 There are in total seven sheets in this excel file. 
-- **Required Info**: a summary of the variables that need to be examined for one particular model. There are two tables in this sheet: one listed for variables that must be asked for simulation on one system, the other one for variables that are optional but would suggest asking. The way they are separated into two tables is based on whether EnergyPlus has a default value for it or not. 
+- **Required Info**: a summary of the variables that need to be examined for one particular model. There are two tables in this sheet: one listed for variables that must be asked for simulation on one system, the other one for variables that are optional but would suggest asking. The way they are separated into two tables is based on whether EnergyPlus has a default value for it or not. These variables have also been highlighted in the other sheets. Orange means it is required and blue means it is optional.
 - **all other sheets**: These sheets include the variable information about an HVAC system. Filling out all these information is all that's necessary for adding a VAV HVAC system in EnergyPlus. The sheets are structured in the following rules:
   - **All Variables of an Object**, included with: Units, Must Have an Input Value or Not, Example Input Value for Scott 6002.
   - **Schedules**, if required by the object. The details of scheudles are included here with the related object to help user understand how scheudules are combined with HVAC system. However, in the IDF-Editor, schedule and HVAC system are separated into two different classes. 
