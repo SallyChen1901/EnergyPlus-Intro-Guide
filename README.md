@@ -7,10 +7,10 @@ This guide is created for "Human-in-the-loop Sensing and Control for Commercial 
 1. Introduction
    - There are two files in this directory. The pdf file provides detailed description, while the power point can be referred to as an outline of the pdf guide.
    - This guide include introduction to basics of EnergyPlus. It also includes a description of the overall building scheme of an EnergyPlus model. For more detailed descriptions of specific step or for an example, please see Example directory.
-1. HVAC System;
-2. Construction;
-3. Scheduling;
-4. Example (CMU Scott Hall Room 6002)
+2. Variable Reference
+   - Include short explanation, example values and default values of variables related to construction and HVAC system.
+   - This is not a complete variable reference. For the complete input and output reference, please refer to EnergyPlus documentation *InputOuputReference*. 
+3. Example (CMU Scott Hall Room 6002)
 
 # Download and Versions
 
@@ -41,3 +41,5 @@ This guide is created by Sally Chen from Civil and Environmental Engineering dep
 # Reference
 
 EnergyPlus Version 8.9.0 Documentation - Getting Started. U.S. Department of Energy, 23 Mar. 2018, energyplus.net/sites/all/modules/custom/nrel_custom/pdfs/pdfs_v8.9.0/GettingStarted.pdf. 
+
+EnergyPlus Version 8.9.0 Documentation - InputOuputReference. U.S. Department of Energy, 23 Mar. 2018, https://energyplus.net/sites/all/modules/custom/nrel_custom/pdfs/pdfs_v8.9.0/InputOutputReference.pdf. 
